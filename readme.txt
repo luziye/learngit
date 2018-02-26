@@ -1,1 +1,1 @@
-c.update_restaurant(111111,-1,TRestaurant(deliver_geojson=u’这里是你txt里的内容’))
+c.update_restaurant(222222,-1,TRestaurant(deliver_geojson=u’这里是你txt里的内容’))

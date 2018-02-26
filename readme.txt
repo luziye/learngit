@@ -1,0 +1,1 @@
+c.update_restaurant(150009081,-1,TRestaurant(deliver_geojson=u’这里是你txt里的内容’))
